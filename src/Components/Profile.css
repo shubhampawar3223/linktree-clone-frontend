@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@300&family=Oxygen:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+#head{
+    font-family: 'Oxygen', sans-serif;
+}
+
+.inp{
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-color: #cbcfd1;
+}
+
+#form-box{
+    border-radius: 15px;
+}
+
+#font-use{
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    color:grey
+}
+
+#my-tree{
+    border-bottom: 1px solid #e6e9eb;
+    
+}

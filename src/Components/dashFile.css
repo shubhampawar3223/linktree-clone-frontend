@@ -1,0 +1,108 @@
+.app {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-color: #e8ebed;
+  }
+  
+  .a {
+    text-align: center;
+  }
+  
+  .noContent {
+    font-size: 13px;
+    margin-left: 40%;
+  }
+  
+  .Preview {
+    height:70vh;  
+    border: 15px solid black;
+    border-radius: 30px;
+    margin-top: 15%;
+  }
+  
+  .cards .card {
+    /* margin: 0px;
+    padding: 0px; */
+    list-style: none; 
+    box-shadow: px 10px 18px #888888;
+  }
+  
+  .add-btn{
+      margin-left:39%
+  }
+
+  .card {
+    display: block;
+    background-color: #fff;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 3px;
+    box-shadow: 0 2px 0 #d7dce1;
+    position: relative;
+  }
+  
+  /* .cards {
+    margin-left: 13%;
+  } */
+  
+  .switch-wrap {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+  
+  .inpElements {
+    display: block;
+    border: none;
+    border-bottom: 1px dotted grey;
+    margin-bottom: 10px;
+  }
+  
+  .inpElements:focus {
+    background-color: grey;
+  }
+  
+  .inpElements:hover {
+    background-color: grey;
+  }
+  
+  .delete {
+    
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .del{
+    padding:5px 5px ;
+    line-height: 10px;
+  }
+  
+  .warn{
+    position:relative;
+    left:-10px;
+    bottom: -5px;
+  }
+  
+  .content{
+    margin-left:50%;
+  }
+  
+  .Preview img{
+    border-radius: 100%;
+    background-color: green;
+    display:block;
+    margin: 10px auto 20px;
+    box-shadow:0 15px 2px #ccc
+  }
+  
+  .head{
+    font-weight: bold;
+  }

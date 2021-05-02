@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Open+Sans:wght@600&display=swap');
+
+.login{
+  border-radius:15px
+}
+
+.font1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7rem;
+}
+
+.font2{
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;   
+}

@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Work+Sans&display=swap');
+
+.headH{
+    font-size:3.5rem;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#p2{
+    font-size:1.6rem; 
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn1{
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.heads{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 2.3rem;   
+}
+
+p{
+    font-family: 'Work Sans', sans-serif;   
+    font-size: 1.4rem;
+}
+
+#cover{
+     height:70vh;
+     margin-top:10%;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 8%;
+     border:10px solid black;
+     background: rgb(2,0,36);
+     background: linear-gradient(23000deg, rgba(2,0,36,1) 0%, rgba(226,219,68,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+#pic{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5%;
+}
+
+#blank{
+    height:5vh;
+    border-right: 1px dotted blue;
+}
+
+#input-n{
+    border-style:none;
+    
+}    
+
+input:focus{
+    outline:none;
+}
